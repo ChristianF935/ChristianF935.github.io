@@ -1,6 +1,6 @@
 # Christian Festejo's Portfolio
 
-This is my home page! My name is Christian Festejo and I am a student at Cal State Fullerton
+This is my home page! My name is Christian Festejo and I am a student at Cal State Fullerton and my major is Computer Science
 
 ## Computer Science Projects
 
